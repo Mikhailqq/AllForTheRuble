@@ -1,0 +1,10 @@
+.work__image {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 70%;
+}
+@media screen and (max-width: 768px) {
+    .work__image {
+        width: 100%;
+    }
+}

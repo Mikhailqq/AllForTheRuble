@@ -1,0 +1,23 @@
+.paragraph {
+    font-family: 'Roboto';
+    font-size: 1.5rem;
+    font-weight: normal;
+    color: #3E3E41;
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 769px) {
+    .paragraph {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 501px) {
+    .paragraph {
+        font-size: 18px;
+        margin-top: 20px;
+    }
+}
